@@ -1,4 +1,4 @@
-package first;
+package frete;
 
 public class Aereo implements iTransporte {
 

@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class FactoryPix extends PagamentoFactory{
     private String chave;

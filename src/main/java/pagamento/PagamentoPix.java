@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class PagamentoPix implements Pagamento {
     public final String chave;

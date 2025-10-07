@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class FactoryBoleto extends PagamentoFactory {
     private double saldo;

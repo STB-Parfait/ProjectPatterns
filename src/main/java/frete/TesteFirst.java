@@ -1,4 +1,4 @@
-package first;
+package frete;
 
 public class TesteFirst {
     public static void main(String[] args) {

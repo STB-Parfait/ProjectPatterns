@@ -1,4 +1,4 @@
-package first;
+package frete;
 
 public class FabricaTerrestre extends Fabrica {
     @Override

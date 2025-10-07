@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 abstract class PagamentoFactory {
     abstract Pagamento criarPagamento();

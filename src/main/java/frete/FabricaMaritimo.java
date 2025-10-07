@@ -1,4 +1,4 @@
-package first;
+package frete;
 
 public class FabricaMaritimo extends Fabrica{
     @Override

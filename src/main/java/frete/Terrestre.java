@@ -1,4 +1,4 @@
-package first;
+package frete;
 
 public class Terrestre implements iTransporte {
 

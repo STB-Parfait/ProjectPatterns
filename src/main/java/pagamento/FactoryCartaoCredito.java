@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class FactoryCartaoCredito extends PagamentoFactory {
     private final String numeroCartao;

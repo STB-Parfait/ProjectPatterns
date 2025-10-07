@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class PagamentoCartaoCredito implements Pagamento {
     private String numeroCartao;

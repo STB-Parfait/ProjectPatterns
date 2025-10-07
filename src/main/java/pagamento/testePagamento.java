@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class testePagamento {
     public static void main(String[] args) {

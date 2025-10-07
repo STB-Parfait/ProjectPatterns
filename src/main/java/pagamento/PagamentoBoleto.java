@@ -1,4 +1,4 @@
-package second;
+package pagamento;
 
 public class PagamentoBoleto implements Pagamento{
     private double saldo;
