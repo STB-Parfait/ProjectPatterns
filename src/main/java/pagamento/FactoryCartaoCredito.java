@@ -1,7 +1,7 @@
 package pagamento;
 
 public class FactoryCartaoCredito extends PagamentoFactory {
-    private final String numeroCartao;
+    private String numeroCartao;
     public FactoryCartaoCredito(String numeroCartao) {
         this.numeroCartao = numeroCartao;
     }

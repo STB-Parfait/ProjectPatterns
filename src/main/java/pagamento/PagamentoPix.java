@@ -1,7 +1,7 @@
 package pagamento;
 
 public class PagamentoPix implements Pagamento {
-    public final String chave;
+    private String chave;
     public PagamentoPix(String chave) {
         this.chave = chave;
     }
