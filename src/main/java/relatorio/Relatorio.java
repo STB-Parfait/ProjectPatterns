@@ -1,7 +1,7 @@
 package relatorio;
 
 public class Relatorio {
-    iFeature estrutura;
+    private iFeature estrutura;
 
     public Relatorio(){
         estrutura = new BaseDeRelatorio();
