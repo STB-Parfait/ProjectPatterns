@@ -1,3 +1,10 @@
+//---
+//
+//  O único propósito desta classe é servir a função de service e,
+//  principalmente, organizar o comportamento das classes, quase
+//  como um menu.
+//
+//---
 package relatorio;
 
 public class Relatorio {
