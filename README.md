@@ -8,7 +8,7 @@ __Justificativa:__
   A problemátixa deixa claro que cada maneira de calcular o frete deve ter sua própria lógica e, ainda sim, ser tradada de forma "genérica", então o método factory pareceu apropriado.
 
 ## Questão 2
-__Padrão utilizado:__ _factory_
+__Padrão utilizado:__ _abstract factory_
 
 __Justificativa:__
 
