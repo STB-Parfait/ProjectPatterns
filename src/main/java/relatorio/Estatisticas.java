@@ -8,6 +8,6 @@ public class Estatisticas extends Decorator implements iFeature {
 
     @Override
     public String descricao() {
-        return feature.descricao() + ", estatisticas";
+        return feature.descricao() + "-Estatisticas de venda\n";
     }
 }

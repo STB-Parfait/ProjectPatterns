@@ -6,6 +6,6 @@ public class Grafico extends Decorator implements iFeature {
     }
     @Override
     public String descricao() {
-        return feature.descricao() + ", gráfico";
+        return feature.descricao() + "-Gráfico\n";
     }
 }
